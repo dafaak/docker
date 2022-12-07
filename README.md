@@ -76,3 +76,6 @@ Los contenedores que estén en la misma red podrán comunicarse.
 - **Anónimo**: solo se indica la ruta
 - **De host**
 - **Nombrado**: se puede reutilizar  
+
+#### Comando para decirle a docer que yml usar
+**docker compose -f docker-compose-dev.yml up**
