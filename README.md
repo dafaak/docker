@@ -70,6 +70,9 @@ Los contenedores que estén en la misma red podrán comunicarse.
 
 - **docker compose up**: para subir los contenedores del archivo yml
 - **docker compose down**: para eliminar los contenedores del yml
-- 
 
+### Volúmenes
 
+- **Anónimo**: solo se indica la ruta
+- **De host**
+- **Nombrado**: se puede reutilizar  
